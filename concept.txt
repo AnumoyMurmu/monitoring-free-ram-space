@@ -1,1 +1,1 @@
-It will alert the user once the ram memory starts overflows.
+It will alert the user once the ram memory starts to overflow.
